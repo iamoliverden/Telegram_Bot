@@ -1,0 +1,9 @@
+# Ignore .idea directory
+.idea/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore other files or directories
+*.log
+*.tmp
